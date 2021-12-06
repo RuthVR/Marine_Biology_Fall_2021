@@ -6,6 +6,9 @@ library(here)
 library(dplyr)
 library(janitor)
 library(viridis)  
+library(RColorBrewer)
+library(ggplot2)
+library(ggsci)
 
 ## Loading Data ################################################################ 
 
@@ -29,17 +32,13 @@ Temp_data_clean <- Temperature_data %>%
     into = c('year', 'month', 'day'), 
     sep = "-"  ) %>%                                                            # separating the dates_time into separate columns 
   filter(year != '2013',
-         year != '2014', 
-         year != '2021',
-         year != '2015',
-         year != '2016', 
-         year != '2017') %>%                                                    # getting rid of years we will not look at 
+         year != '2021') %>%                                                    # getting rid of years we will not look at 
   rename(average_water_temp_C = water_temperature_6_0m_agincourt_reef_weather_station_level0_value_avg)%>%
   unite(col = "year_month",                                                     # the name of the NEW col 
         c(year, month),                                                         # the columns to unite 
-        sep = "_",                                                              # lets put a . in the middle 
+        sep = "/",                                                              # lets put a . in the middle 
         remove = FALSE) %>%                                                     # keep the original columns 
-  write_csv(here("group_project", "data", "Cleaned_up_temperature_data.csv"))
+    write_csv(here("group_project", "data", "Cleaned_up_temperature_data.csv"))
 
 
 Phytoplankton_cleaned_data <- Phytoplankton_data %>%
@@ -102,7 +101,7 @@ full_plankton_data <- full_join(Phytoplankton_cleaned_data, Zooplankton_clean_da
 ## Making the Graphs to analysis data ##########################################
 # Plankton Abundance 
 ggplot(data= full_plankton_data,
-         mapping = aes(x = year_month,
+        mapping = aes(x = year_month,
                        y = taxon_per_m3,
                        group = plankton_type,
                        fill = year_month))+
@@ -118,11 +117,31 @@ ggplot(data= full_plankton_data,
   labs(x = "",
        y = "Number of plankton per cubic meter",
        title = "Abundance of Plankton",
-       subtitle = "The graph shows us the abunancy of phytoplankton and Zooplankton between June 2018 - August 2020")+
-  scale_fill_viridis_d()+                        ### how I got my color theme ##
-  scale_x_discrete(guide = guide_axis(angle = 60))### how i customized my axis scales ##
+       subtitle = "The graph shows us the abunancy of phytoplankton and Zooplankton between June 2018 - August 2020",
+       caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")+
+  scale_fill_jco()+                                                       ### how I got my color theme ##
+  scale_x_discrete(guide = guide_axis(angle = 60))                              ### how i customized my axis scales ##
 ggsave(here("group_project", "output", "Abundance_of_plankton.png"),
        width = 10, height = 7)   
 
 # Sea Temperature Graph 
-ggplot(data = )
+ggplot(data = Temp_data_clean,
+       mapping = aes(x = year,
+                     y = average_water_temp_C,
+                     color = year))+
+  geom_point(size = 3)+
+  facet_wrap(~month)+
+  theme_light()+
+  theme(legend.position = "none",
+        axis.title = element_text(size = 10),
+        title = element_text(size = 16),
+        plot.subtitle = element_text(size = 13))+
+  labs(x = "",
+       y = "Temperature (C)",
+       title = "Average Monthly Temperature of Seawater",
+       subtitle = "The graphs bellow show what the monthly average seawater temperature was from 2014 - 2020.
+The data was recorded off the coast of Northeastern Australia.",
+       caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")+
+  scale_color_jco() +                                       ### how I got my color theme ##
+  scale_x_discrete(guide = guide_axis(angle = 60))                              ### how i customized my axis scales ##
+
