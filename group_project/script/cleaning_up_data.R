@@ -5,6 +5,7 @@ library(tidyverse)
 library(here)
 library(dplyr)
 library(janitor)
+library(viridis)  
 
 ## Loading Data ################################################################ 
 
@@ -29,7 +30,10 @@ Temp_data_clean <- Temperature_data %>%
     sep = "-"  ) %>%                                                            # separating the dates_time into separate columns 
   filter(year != '2013',
          year != '2014', 
-         year != '2021') %>%                                                    # getting rid of years we will not look at 
+         year != '2021',
+         year != '2015',
+         year != '2016', 
+         year != '2017') %>%                                                    # getting rid of years we will not look at 
   rename(average_water_temp_C = water_temperature_6_0m_agincourt_reef_weather_station_level0_value_avg)%>%
   unite(col = "year_month",                                                     # the name of the NEW col 
         c(year, month),                                                         # the columns to unite 
@@ -45,10 +49,14 @@ Phytoplankton_cleaned_data <- Phytoplankton_data %>%
          -family: -species,
          -caab_code:-taxon_start_date,
          -phyto_comments: -geom) %>%
-  arrange(year) %>%
+  arrange(year, 
+          taxon_group) %>%
   filter(year != '2013',
          year != '2014', 
-         year != '2021') %>%
+         year != '2021', 
+         year != '2015',
+         year != '2016', 
+         year != '2017') %>%
   unite(col = "year_month",                                                     # the name of the NEW col 
         c(year, month),                                                         # the columns to unite 
         sep = "/",                                                              # lets put a . in the middle 
@@ -69,7 +77,10 @@ Zooplankton_clean_data <- Zooplankton_data %>%
   arrange(year) %>%
   filter(year != '2013',
          year != '2014', 
-         year != '2021') %>%
+         year != '2021', 
+         year != '2015',
+         year != '2016', 
+         year != '2017') %>%
   unite(col = "year_month",                                                     # the name of the NEW col 
         c(year, month),                                                         # the columns to unite 
         sep = "/",                                                              # lets put a . in the middle 
@@ -82,8 +93,36 @@ Zooplankton_clean_data <- Zooplankton_data %>%
 full_plankton_data <- full_join(Phytoplankton_cleaned_data, Zooplankton_clean_data) %>%
   arrange(year)%>%
   select(-day) %>%
+  filter(taxon_group != 'Radiozoa',
+         taxon_group != 'NOCTILUCA', 
+         taxon_group != 'Silicoflagellate',
+         taxon_group != 'Other')%>%
   write_csv(here("group_project", "data", "Complete_plankton_data.csv"))
 
+## Making the Graphs to analysis data ##########################################
+# Plankton Abundance 
+ggplot(data= full_plankton_data,
+         mapping = aes(x = year_month,
+                       y = taxon_per_m3,
+                       group = plankton_type,
+                       fill = year_month))+
+  geom_col()+
+  facet_wrap(~plankton_type,
+             scales = "free",
+             ncol = 2)+
+  theme_bw()+
+  theme(legend.position = "none",
+        axis.title = element_text(size = 10),
+        title = element_text(size = 16),
+        plot.subtitle = element_text(size = 13))+
+  labs(x = "",
+       y = "Number of plankton per cubic meter",
+       title = "Abundance of Plankton",
+       subtitle = "The graph shows us the abunancy of phytoplankton and Zooplankton between June 2018 - August 2020")+
+  scale_fill_viridis_d()+                        ### how I got my color theme ##
+  scale_x_discrete(guide = guide_axis(angle = 60))### how i customized my axis scales ##
+ggsave(here("group_project", "output", "Abundance_of_plankton.png"),
+       width = 10, height = 7)   
 
-  
-
+# Sea Temperature Graph 
+ggplot(data = )
