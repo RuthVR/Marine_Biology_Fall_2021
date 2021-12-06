@@ -130,8 +130,9 @@ ggplot(data = Temp_data_clean,
                      y = average_water_temp_C,
                      color = year))+
   geom_point(size = 3)+
-  facet_wrap(~month)+
-  theme_light()+
+  facet_wrap(~month,
+             scales = "free")+
+  theme_classic()+
   theme(legend.position = "none",
         axis.title = element_text(size = 10),
         title = element_text(size = 16),
@@ -144,4 +145,6 @@ The data was recorded off the coast of Northeastern Australia.",
        caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")+
   scale_color_jco() +                                       ### how I got my color theme ##
   scale_x_discrete(guide = guide_axis(angle = 60))                              ### how i customized my axis scales ##
+ggsave(here("group_project", "output", "temp_seawater_2014_2020.png"),
+       width = 10, height = 7) 
 
