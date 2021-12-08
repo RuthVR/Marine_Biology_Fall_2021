@@ -3,24 +3,6 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2018-06-09T03:37:04Z,2018/6,2018,6,9,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
 2018-06-09T05:05:43Z,2018/6,2018,6,9,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
 2018-06-09T05:05:43Z,2018/6,2018,6,9,Rhizosolenia bergonii,Centric diatom,3333.3,phytoplankton
-2018-06-08T23:11:05Z,2018/6,2018,6,8,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
-2018-06-09T03:37:04Z,2018/6,2018,6,9,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2018-06-08T23:11:05Z,2018/6,2018,6,8,Amphisolenia bidentata,Dinoflagellate,3333.3,phytoplankton
-2018-06-08T23:11:05Z,2018/6,2018,6,8,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
-2018-06-09T00:39:45Z,2018/6,2018,6,9,Tripos trichoceros,Dinoflagellate,6666.7,phytoplankton
-2018-06-09T02:08:24Z,2018/6,2018,6,9,Tripos vultur,Dinoflagellate,666.7,phytoplankton
-2018-06-09T02:08:24Z,2018/6,2018,6,9,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos biceps,Dinoflagellate,3333.3,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
-2018-06-09T03:37:04Z,2018/6,2018,6,9,Nematocysts,Other,3333.3,phytoplankton
-2018-06-09T00:39:45Z,2018/6,2018,6,9,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Thalassionema nitzschioides,Pennate diatom,6666.7,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2018-06-09T00:39:45Z,2018/6,2018,6,9,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
-2018-06-09T05:05:43Z,2018/6,2018,6,9,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2018-09-07T02:25:15Z,2018/9,2018,9,7,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
 2018-09-07T10:04:05Z,2018/9,2018,9,7,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
 2018-09-07T10:04:05Z,2018/9,2018,9,7,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
@@ -43,6 +25,10 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2018-09-07T05:28:47Z,2018/9,2018,9,7,Rhabdonella spp.,Ciliate,3333.3,phytoplankton
 2018-09-07T13:07:37Z,2018/9,2018,9,7,Rhabdonella spp.,Ciliate,3333.3,phytoplankton
 2018-09-08T04:25:17Z,2018/9,2018,9,8,Coccolithophore cf.,Coccolithophore,6666.7,phytoplankton
+2018-06-08T23:11:05Z,2018/6,2018,6,8,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
+2018-06-09T03:37:04Z,2018/6,2018,6,9,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2018-09-07T07:00:33Z,2018/9,2018,9,7,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2018-09-07T11:35:51Z,2018/9,2018,9,7,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2018-09-07T19:14:41Z,2018/9,2018,9,7,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
@@ -50,6 +36,14 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2018-09-07T22:18:13Z,2018/9,2018,9,7,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2018-09-08T01:21:45Z,2018/9,2018,9,8,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
 2018-09-08T02:53:31Z,2018/9,2018,9,8,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2018-06-08T23:11:05Z,2018/6,2018,6,8,Amphisolenia bidentata,Dinoflagellate,3333.3,phytoplankton
+2018-06-08T23:11:05Z,2018/6,2018,6,8,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
+2018-06-09T00:39:45Z,2018/6,2018,6,9,Tripos trichoceros,Dinoflagellate,6666.7,phytoplankton
+2018-06-09T02:08:24Z,2018/6,2018,6,9,Tripos vultur,Dinoflagellate,666.7,phytoplankton
+2018-06-09T02:08:24Z,2018/6,2018,6,9,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos biceps,Dinoflagellate,3333.3,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
 2018-09-07T00:53:29Z,2018/9,2018,9,7,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
 2018-09-07T00:53:29Z,2018/9,2018,9,7,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
 2018-09-07T00:53:29Z,2018/9,2018,9,7,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
@@ -106,11 +100,15 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2018-09-08T02:53:31Z,2018/9,2018,9,8,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
 2018-09-08T04:25:17Z,2018/9,2018,9,8,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
 2018-09-08T04:25:17Z,2018/9,2018,9,8,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
+2018-06-09T03:37:04Z,2018/6,2018,6,9,Nematocysts,Other,3333.3,phytoplankton
 2018-09-07T02:25:15Z,2018/9,2018,9,7,Nematocysts,Other,6666.7,phytoplankton
 2018-09-07T03:57:01Z,2018/9,2018,9,7,Nematocysts,Other,3333.3,phytoplankton
 2018-09-07T14:39:23Z,2018/9,2018,9,7,Nematocysts,Other,6666.7,phytoplankton
 2018-09-07T22:18:13Z,2018/9,2018,9,7,Nematocysts,Other,666.7,phytoplankton
 2018-09-08T02:53:31Z,2018/9,2018,9,8,Nematocysts,Other,666.7,phytoplankton
+2018-06-09T00:39:45Z,2018/6,2018,6,9,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Thalassionema nitzschioides,Pennate diatom,6666.7,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
 2018-09-07T07:00:33Z,2018/9,2018,9,7,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
 2018-09-07T14:39:23Z,2018/9,2018,9,7,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
 2018-09-07T16:11:09Z,2018/9,2018,9,7,Navicula cf. 40-60 µm length,Pennate diatom,3333.3,phytoplankton
@@ -120,148 +118,8 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2018-09-08T01:21:45Z,2018/9,2018,9,8,Navicula cf. 40-60 µm length,Pennate diatom,3333.3,phytoplankton
 2018-09-08T02:53:31Z,2018/9,2018,9,8,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
 2018-09-08T04:25:17Z,2018/9,2018,9,8,Thalassionema nitzschioides,Pennate diatom,10000,phytoplankton
-2019-11-12T02:33:42Z,2019/11,2019,11,12,Palmerina ostenfeldii,Centric diatom,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,13333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Thalassiosira spp. <10 µm,Centric diatom,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Corethron spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,6666.7,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,666.7,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Guinardia striata,Centric diatom,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,6666.7,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Rhizosolenia setigera group,Centric diatom,10000,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Leptocylindrus spp.,Centric diatom,3333.3,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Rhabdonella spp.,Ciliate,3333.3,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Rhabdonella spp.,Ciliate,666.7,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
-2019-11-12T00:58:52Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2019-11-12T02:33:42Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,23333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-13T03:51:02Z,2019/11,2019,11,13,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-11-12T02:33:42Z,2019/11,2019,11,12,Podolampas spinifera,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T02:33:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos inflatus,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos candelabrum,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos hundhausenii,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Noctiluca scintillans,Dinoflagellate,666.7,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Unid dinoflagellate 10 - 30 µm,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos biceps,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos contortus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Protoperidinium spp.,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T16:47:12Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos candelabrum,Dinoflagellate,666.7,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos contortus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos hundhausenii,Dinoflagellate,666.7,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos contortus,Dinoflagellate,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
-2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-11-12T13:37:32Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
-2019-11-12T18:22:02Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
-2019-11-12T19:56:52Z,2019/11,2019,11,12,Nematocysts,Other,6666.7,phytoplankton
-2019-11-12T21:31:42Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
-2019-11-12T23:06:32Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Nematocysts,Other,3333.3,phytoplankton
-2019-11-12T04:08:32Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2019-11-12T05:43:22Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2019-11-12T07:18:12Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,666.7,phytoplankton
-2019-11-12T08:53:02Z,2019/11,2019,11,12,Pseudo-nitzschia delicatissima complex <=3 µm,Pennate diatom,3333.3,phytoplankton
-2019-11-12T10:27:52Z,2019/11,2019,11,12,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2019-11-12T12:02:42Z,2019/11,2019,11,12,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2019-11-12T15:12:22Z,2019/11,2019,11,12,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2019-11-13T02:16:12Z,2019/11,2019,11,13,Navicula cf. 80-100 µm length,Pennate diatom,3333.3,phytoplankton
+2018-06-09T00:39:45Z,2018/6,2018,6,9,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
+2018-06-09T05:05:43Z,2018/6,2018,6,9,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2019-04-15T22:27:31Z,2019/4,2019,4,15,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
 2019-04-16T00:07:41Z,2019/4,2019,4,16,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
 2019-04-16T01:47:50Z,2019/4,2019,4,16,Thalassiosira spp. <10 µm,Centric diatom,3333.3,phytoplankton
@@ -271,73 +129,6 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2019-04-17T02:50:10Z,2019/4,2019,4,17,Bacteriastrum spp.,Centric diatom,10000,phytoplankton
 2019-04-17T02:50:10Z,2019/4,2019,4,17,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
 2019-04-17T02:50:10Z,2019/4,2019,4,17,Lauderia spp.,Centric diatom,3333.3,phytoplankton
-2019-04-16T23:29:51Z,2019/4,2019,4,16,Eutintinnus spp.,Ciliate,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
-2019-04-15T22:27:31Z,2019/4,2019,4,15,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T05:08:09Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
-2019-04-16T11:48:46Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T13:28:55Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T15:09:05Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T15:09:05Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T18:29:23Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T20:09:33Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-04-16T23:29:51Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Trichodesmium spp.,Cyanobacteria,30000,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
-2019-04-16T01:47:50Z,2019/4,2019,4,16,Prorocentrum spp.,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T05:08:09Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-04-16T05:08:09Z,2019/4,2019,4,16,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T06:48:18Z,2019/4,2019,4,16,Amphisolenia bidentata,Dinoflagellate,6666.7,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
-2019-04-16T11:48:46Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T13:28:55Z,2019/4,2019,4,16,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
-2019-04-16T13:28:55Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-04-16T18:29:23Z,2019/4,2019,4,16,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T20:09:33Z,2019/4,2019,4,16,Tripos furca,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Prorocentrum spp.,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Dinophysis caudata,Dinoflagellate,666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos horridus,Dinoflagellate,6666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos massiliensis,Dinoflagellate,6666.7,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos contortus var. subcontortus,Dinoflagellate,666.7,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Nematocysts,Other,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Nematocysts,Other,3333.3,phytoplankton
-2019-04-16T00:07:41Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,6666.7,phytoplankton
-2019-04-16T01:47:50Z,2019/4,2019,4,16,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
-2019-04-16T03:27:59Z,2019/4,2019,4,16,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
-2019-04-16T06:48:18Z,2019/4,2019,4,16,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-16T06:48:18Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-16T08:28:27Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-16T10:08:37Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-16T15:09:05Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2019-04-16T15:09:05Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,6666.7,phytoplankton
-2019-04-16T18:29:23Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2019-04-16T20:09:33Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,6666.7,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,10000,phytoplankton
-2019-04-16T21:49:42Z,2019/4,2019,4,16,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2019-04-16T23:29:51Z,2019/4,2019,4,16,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
-2019-04-17T01:10:01Z,2019/4,2019,4,17,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Fragilaria spp.,Pennate diatom,3333.3,phytoplankton
-2019-04-17T02:50:10Z,2019/4,2019,4,17,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
@@ -456,8 +247,73 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
 2019-08-05T04:14:56Z,2019/8,2019,8,5,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
 2019-08-05T04:14:56Z,2019/8,2019,8,5,Guinardia striata,Centric diatom,3333.3,phytoplankton
+2019-11-12T02:33:42Z,2019/11,2019,11,12,Palmerina ostenfeldii,Centric diatom,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,13333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Thalassiosira spp. <10 µm,Centric diatom,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Corethron spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,6666.7,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,666.7,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Guinardia striata,Centric diatom,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Leptocylindrus spp.,Centric diatom,6666.7,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Rhizosolenia setigera group,Centric diatom,10000,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Leptocylindrus spp.,Centric diatom,3333.3,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Hemiaulus hauckii,Centric diatom,3333.3,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2019-04-16T23:29:51Z,2019/4,2019,4,16,Eutintinnus spp.,Ciliate,3333.3,phytoplankton
 2019-08-04T06:40:38Z,2019/8,2019,8,4,Eutintinnus spp.,Ciliate,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Rhabdonella spp.,Ciliate,3333.3,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Rhabdonella spp.,Ciliate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
+2019-04-15T22:27:31Z,2019/4,2019,4,15,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T05:08:09Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
+2019-04-16T11:48:46Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T13:28:55Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T15:09:05Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T15:09:05Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T18:29:23Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T20:09:33Z,2019/4,2019,4,16,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T23:29:51Z,2019/4,2019,4,16,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Trichodesmium spp.,Cyanobacteria,30000,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
 2019-08-03T16:17:46Z,2019/8,2019,8,3,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
 2019-08-03T21:41:21Z,2019/8,2019,8,3,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2019-08-04T01:17:04Z,2019/8,2019,8,4,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
@@ -471,6 +327,45 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2019-08-04T22:51:21Z,2019/8,2019,8,4,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
 2019-08-05T00:39:13Z,2019/8,2019,8,5,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-12T00:58:52Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2019-11-12T02:33:42Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,23333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-11-13T03:51:02Z,2019/11,2019,11,13,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2019-04-16T01:47:50Z,2019/4,2019,4,16,Prorocentrum spp.,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T05:08:09Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-04-16T05:08:09Z,2019/4,2019,4,16,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T06:48:18Z,2019/4,2019,4,16,Amphisolenia bidentata,Dinoflagellate,6666.7,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
+2019-04-16T11:48:46Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T13:28:55Z,2019/4,2019,4,16,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
+2019-04-16T13:28:55Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-04-16T18:29:23Z,2019/4,2019,4,16,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T20:09:33Z,2019/4,2019,4,16,Tripos furca,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Prorocentrum spp.,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos horridus,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Dinophysis caudata,Dinoflagellate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos horridus,Dinoflagellate,6666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos massiliensis,Dinoflagellate,6666.7,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Tripos contortus var. subcontortus,Dinoflagellate,666.7,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
 2019-08-03T07:18:29Z,2019/8,2019,8,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
 2019-08-03T09:06:20Z,2019/8,2019,8,3,Oxytoxum scolopax,Dinoflagellate,3333.3,phytoplankton
@@ -596,10 +491,106 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
 2019-08-05T04:14:56Z,2019/8,2019,8,5,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T02:33:42Z,2019/11,2019,11,12,Podolampas spinifera,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T02:33:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos inflatus,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Protoperidinium spp.,Dinoflagellate,666.7,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos candelabrum,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos hundhausenii,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Noctiluca scintillans,Dinoflagellate,666.7,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Unid dinoflagellate 10 - 30 µm,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos biceps,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos contortus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Protoperidinium spp.,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T16:47:12Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos candelabrum,Dinoflagellate,666.7,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Pyrophacus spp.,Dinoflagellate,666.7,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T19:56:52Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Amphisolenia bidentata,Dinoflagellate,666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Tripos contortus,Dinoflagellate,666.7,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos hundhausenii,Dinoflagellate,666.7,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos contortus,Dinoflagellate,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-13T00:41:22Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos euarcuatus,Dinoflagellate,666.7,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
+2019-11-13T03:51:02Z,2019/11,2019,11,13,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Nematocysts,Other,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Nematocysts,Other,3333.3,phytoplankton
 2019-08-04T10:16:21Z,2019/8,2019,8,4,Nematocysts,Other,6666.7,phytoplankton
 2019-08-04T13:52:04Z,2019/8,2019,8,4,Nematocysts,Other,3333.3,phytoplankton
 2019-08-04T21:03:30Z,2019/8,2019,8,4,Nematocysts,Other,3333.3,phytoplankton
 2019-08-05T00:39:13Z,2019/8,2019,8,5,Nematocysts,Other,3333.3,phytoplankton
+2019-11-12T13:37:32Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
+2019-11-12T18:22:02Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
+2019-11-12T19:56:52Z,2019/11,2019,11,12,Nematocysts,Other,6666.7,phytoplankton
+2019-11-12T21:31:42Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
+2019-11-12T23:06:32Z,2019/11,2019,11,12,Nematocysts,Other,3333.3,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Nematocysts,Other,3333.3,phytoplankton
+2019-04-16T00:07:41Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,6666.7,phytoplankton
+2019-04-16T01:47:50Z,2019/4,2019,4,16,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
+2019-04-16T03:27:59Z,2019/4,2019,4,16,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
+2019-04-16T06:48:18Z,2019/4,2019,4,16,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-16T06:48:18Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-16T08:28:27Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-16T10:08:37Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-16T15:09:05Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2019-04-16T15:09:05Z,2019/4,2019,4,16,Thalassiothrix cf. spp.,Pennate diatom,6666.7,phytoplankton
+2019-04-16T18:29:23Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2019-04-16T20:09:33Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,6666.7,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,10000,phytoplankton
+2019-04-16T21:49:42Z,2019/4,2019,4,16,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2019-04-16T23:29:51Z,2019/4,2019,4,16,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
+2019-04-17T01:10:01Z,2019/4,2019,4,17,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Fragilaria spp.,Pennate diatom,3333.3,phytoplankton
 2019-08-03T09:06:20Z,2019/8,2019,8,3,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
 2019-08-03T10:54:12Z,2019/8,2019,8,3,Pleurosigma spp. < 150 µm,Pennate diatom,666.7,phytoplankton
 2019-08-03T12:42:03Z,2019/8,2019,8,3,Navicula cf. 200-250 µm length,Pennate diatom,666.7,phytoplankton
@@ -653,168 +644,18 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Pleurosigma / Gyrosigma spp.,Pennate diatom,3333.3,phytoplankton
 2019-08-05T02:27:04Z,2019/8,2019,8,5,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
 2019-08-05T04:14:56Z,2019/8,2019,8,5,Navicula cf. 40-60 µm length,Pennate diatom,3333.3,phytoplankton
+2019-11-12T04:08:32Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2019-11-12T05:43:22Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2019-11-12T07:18:12Z,2019/11,2019,11,12,Thalassionema spp.,Pennate diatom,666.7,phytoplankton
+2019-11-12T08:53:02Z,2019/11,2019,11,12,Pseudo-nitzschia delicatissima complex <=3 µm,Pennate diatom,3333.3,phytoplankton
+2019-11-12T10:27:52Z,2019/11,2019,11,12,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2019-11-12T12:02:42Z,2019/11,2019,11,12,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2019-11-12T15:12:22Z,2019/11,2019,11,12,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2019-11-13T02:16:12Z,2019/11,2019,11,13,Navicula cf. 80-100 µm length,Pennate diatom,3333.3,phytoplankton
+2019-04-17T02:50:10Z,2019/4,2019,4,17,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2019-08-04T08:28:30Z,2019/8,2019,8,4,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2019-08-04T10:16:21Z,2019/8,2019,8,4,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
 2019-08-04T19:15:38Z,2019/8,2019,8,4,Dictyocha fibula,Silicoflagellate,3333.3,phytoplankton
-2020-12-01T22:42:43Z,2020/12,2020,12,1,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-01T22:42:43Z,2020/12,2020,12,1,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,666.7,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,20000,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,10000,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,13333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Coscinodiscus spp.,Centric diatom,666.7,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,10000,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Coscinodiscus spp.,Centric diatom,666.7,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,13333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,20000,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,20000,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Guinardia striata,Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,13333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Bellerochea malleus,Centric diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Neostreptotheca spp.,Centric diatom,666.7,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Coscinodiscus gigas,Centric diatom,666.7,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Thalassiosira spp.,Centric diatom,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,10000,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-12-02T19:03:08Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T19:03:08Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-12-02T22:26:32Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T22:26:32Z,2020/12,2020,12,2,Coscinodiscus spp. 100-150 µm,Centric diatom,666.7,phytoplankton
-2020-12-03T00:08:14Z,2020/12,2020,12,3,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhabdonella spiralis,Ciliate,3333.3,phytoplankton
-2020-12-01T22:42:43Z,2020/12,2020,12,1,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
-2020-12-02T02:06:07Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,70000,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,20000,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,30000,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,80000,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,93333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,60000,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-12-02T19:03:08Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-12-03T01:49:56Z,2020/12,2020,12,3,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Tripos macroceros type,Dinoflagellate,666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Ceratocorys horrida,Dinoflagellate,666.7,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos brevis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T12:16:19Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Gonyaulax spp.,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos fusus,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
-2020-12-02T19:03:08Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,6666.7,phytoplankton
-2020-12-02T19:03:08Z,2020/12,2020,12,2,Tripos vultur,Dinoflagellate,666.7,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T22:26:32Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-02T22:26:32Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
-2020-12-03T00:08:14Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-03T00:08:14Z,2020/12,2020,12,3,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
-2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos macroceros type,Dinoflagellate,666.7,phytoplankton
-2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
-2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
-2020-12-02T05:29:31Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Nematocysts,Other,6666.7,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
-2020-12-02T00:24:25Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
-2020-12-02T03:47:49Z,2020/12,2020,12,2,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
-2020-12-02T08:52:55Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2020-12-02T10:34:37Z,2020/12,2020,12,2,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2020-12-02T13:58:01Z,2020/12,2020,12,2,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2020-12-02T15:39:43Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2020-12-02T20:44:50Z,2020/12,2020,12,2,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
-2020-12-03T01:49:56Z,2020/12,2020,12,3,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Rhizosolenia spp.,Centric diatom,710.1,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Coscinodiscus spp. 300-400 µm,Centric diatom,710.1,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Chaetoceros (Phaeoceros),Centric diatom,7101.3,phytoplankton
@@ -912,10 +753,154 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Rhizosolenia imbricata group,Centric diatom,3550.7,phytoplankton
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Chaetoceros (Hyalochaete),Centric diatom,3550.7,phytoplankton
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Rhizosolenia spp.,Centric diatom,3550.7,phytoplankton
+2020-05-19T22:48:46Z,2020/5,2020,5,19,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-05-20T03:54:56Z,2020/5,2020,5,20,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Eucampia spp.,Centric diatom,3333.3,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Guinardia striata,Centric diatom,3333.3,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
+2020-05-20T17:31:25Z,2020/5,2020,5,20,Bellerochea malleus,Centric diatom,666.7,phytoplankton
+2020-05-20T17:31:25Z,2020/5,2020,5,20,Thalassiosira spp. 20-40 µm,Centric diatom,3333.3,phytoplankton
+2020-05-20T19:13:28Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-05-20T19:13:28Z,2020/5,2020,5,20,Coscinodiscus gigas,Centric diatom,666.7,phytoplankton
+2020-05-20T19:13:28Z,2020/5,2020,5,20,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-05-20T20:55:32Z,2020/5,2020,5,20,Coscinodiscus spp.,Centric diatom,3333.3,phytoplankton
+2020-05-20T20:55:32Z,2020/5,2020,5,20,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
+2020-05-20T20:55:32Z,2020/5,2020,5,20,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-05-21T00:19:39Z,2020/5,2020,5,21,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
+2020-05-21T02:01:42Z,2020/5,2020,5,21,Odontella sinensis,Centric diatom,3333.3,phytoplankton
+2020-05-21T03:43:46Z,2020/5,2020,5,21,Chaetoceros (Phaeoceros),Centric diatom,10000,phytoplankton
+2020-08-17T10:22:38Z,2020/8,2020,8,17,Thalassiosira spp. 10-20 µm,Centric diatom,6666.7,phytoplankton
+2020-08-17T10:22:38Z,2020/8,2020,8,17,Rhizosolenia setigera group,Centric diatom,6666.7,phytoplankton
+2020-08-17T13:42:53Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-08-17T15:23:01Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,6666.7,phytoplankton
+2020-08-17T17:03:08Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,13333.3,phytoplankton
+2020-08-17T18:43:15Z,2020/8,2020,8,17,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-08-17T18:43:15Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-08-17T22:03:30Z,2020/8,2020,8,17,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-08-17T23:43:38Z,2020/8,2020,8,17,Proboscia spp.,Centric diatom,6666.7,phytoplankton
+2020-08-17T23:43:38Z,2020/8,2020,8,17,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
+2020-08-17T23:43:38Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Rhizosolenia setigera group,Centric diatom,6666.7,phytoplankton
+2020-08-18T04:44:00Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T08:04:15Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T11:24:30Z,2020/8,2020,8,18,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
+2020-08-18T11:24:30Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T13:04:37Z,2020/8,2020,8,18,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-08-18T16:24:52Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T18:05:00Z,2020/8,2020,8,18,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-08-18T18:05:00Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2020-08-18T19:45:07Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
+2020-08-18T19:45:07Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2020-08-18T19:45:07Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T19:45:07Z,2020/8,2020,8,18,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
+2020-08-18T23:05:22Z,2020/8,2020,8,18,Coscinodiscus spp.,Centric diatom,6666.7,phytoplankton
+2020-08-18T23:05:22Z,2020/8,2020,8,18,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-08-18T23:05:22Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-08-18T23:05:22Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
+2020-12-01T22:42:43Z,2020/12,2020,12,1,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-01T22:42:43Z,2020/12,2020,12,1,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,20000,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,10000,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,6666.7,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,13333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Coscinodiscus spp.,Centric diatom,666.7,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,10000,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Coscinodiscus spp.,Centric diatom,666.7,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,13333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Chaetoceros (Hyalochaete),Centric diatom,20000,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,20000,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Guinardia striata,Centric diatom,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,13333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia setigera group,Centric diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Bellerochea malleus,Centric diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Neostreptotheca spp.,Centric diatom,666.7,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Coscinodiscus gigas,Centric diatom,666.7,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Thalassiosira spp.,Centric diatom,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Coscinodiscus spp. 300-400 µm,Centric diatom,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Proboscia spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,10000,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
+2020-12-02T19:03:08Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-12-02T19:03:08Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Bacteriastrum spp.,Centric diatom,6666.7,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
+2020-12-02T22:26:32Z,2020/12,2020,12,2,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
+2020-12-02T22:26:32Z,2020/12,2020,12,2,Coscinodiscus spp. 100-150 µm,Centric diatom,666.7,phytoplankton
+2020-12-03T00:08:14Z,2020/12,2020,12,3,Hemiaulus spp.,Centric diatom,3333.3,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
 2020-02-16T15:17:04Z,2020/2,2020,2,16,Tintinnopsis spp.,Ciliate,3550.7,phytoplankton
 2020-02-16T18:39:35Z,2020/2,2020,2,16,Eutintinnus spp.,Ciliate,3550.7,phytoplankton
 2020-02-16T20:20:51Z,2020/2,2020,2,16,Rhabdonella spp.,Ciliate,3550.7,phytoplankton
+2020-05-20T09:01:07Z,2020/5,2020,5,20,Xystonellopsis spp.,Ciliate,666.7,phytoplankton
+2020-05-21T02:01:42Z,2020/5,2020,5,21,Tintinnopsis spp.,Ciliate,3333.3,phytoplankton
+2020-08-18T04:44:00Z,2020/8,2020,8,18,Steenstrupiella spp.,Ciliate,3333.3,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Rhabdonella spiralis,Ciliate,3333.3,phytoplankton
 2020-02-16T10:13:16Z,2020/2,2020,2,16,Coccolithophore cf.,Coccolithophore,3550.7,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Trichodesmium spp.,Cyanobacteria,3550.7,phytoplankton
 2020-02-16T01:46:56Z,2020/2,2020,2,16,Trichodesmium spp.,Cyanobacteria,3550.7,phytoplankton
 2020-02-16T05:09:28Z,2020/2,2020,2,16,Trichodesmium spp.,Cyanobacteria,24854.7,phytoplankton
@@ -934,6 +919,46 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-02-17T01:24:39Z,2020/2,2020,2,17,Trichodesmium spp.,Cyanobacteria,42608,phytoplankton
 2020-02-17T03:05:55Z,2020/2,2020,2,17,Trichodesmium spp.,Cyanobacteria,113621,phytoplankton
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Trichodesmium spp.,Cyanobacteria,63912,phytoplankton
+2020-05-20T00:30:49Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-05-20T05:37:00Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-05-20T07:19:03Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-05-20T09:01:07Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-05-20T10:43:11Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-05-21T02:01:42Z,2020/5,2020,5,21,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
+2020-05-21T03:43:46Z,2020/5,2020,5,21,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-17T13:42:53Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-08-17T15:23:01Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-17T17:03:08Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-17T20:23:23Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-17T22:03:30Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-17T23:43:38Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-08-18T01:23:45Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
+2020-08-18T03:03:53Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2020-08-18T13:04:37Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-08-18T16:24:52Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-08-18T18:05:00Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-08-18T19:45:07Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
+2020-08-18T21:25:14Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
+2020-12-01T22:42:43Z,2020/12,2020,12,1,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
+2020-12-02T02:06:07Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,70000,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,20000,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,33333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,30000,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,80000,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,93333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,60000,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-12-02T19:03:08Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
+2020-12-03T01:49:56Z,2020/12,2020,12,3,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Prorocentrum spp.,Dinoflagellate,710.1,phytoplankton
 2020-02-16T00:05:40Z,2020/2,2020,2,16,Tripos massiliensis,Dinoflagellate,710.1,phytoplankton
 2020-02-16T01:46:56Z,2020/2,2020,2,16,Tripos muelleri,Dinoflagellate,710.1,phytoplankton
@@ -989,65 +1014,6 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Tripos muelleri type,Dinoflagellate,710.1,phytoplankton
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Tripos trichoceros,Dinoflagellate,14202.7,phytoplankton
 2020-02-17T04:47:11Z,2020/2,2020,2,17,Tripos massiliensis,Dinoflagellate,3550.7,phytoplankton
-2020-02-16T06:50:44Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T08:32:00Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T10:13:16Z,2020/2,2020,2,16,Nematocysts,Other,7101.3,phytoplankton
-2020-02-16T11:54:32Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T15:17:04Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T22:02:07Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T23:43:23Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
-2020-02-17T04:47:11Z,2020/2,2020,2,17,Nematocysts,Other,3550.7,phytoplankton
-2020-02-16T01:46:56Z,2020/2,2020,2,16,Cylindrotheca closterium,Pennate diatom,3550.7,phytoplankton
-2020-02-16T01:46:56Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3550.7,phytoplankton
-2020-02-16T01:46:56Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
-2020-02-16T01:46:56Z,2020/2,2020,2,16,Pleurosigma / Gyrosigma spp.,Pennate diatom,710.1,phytoplankton
-2020-02-16T10:13:16Z,2020/2,2020,2,16,Pseudo-nitzschia delicatissima complex <=3 µm,Pennate diatom,3550.7,phytoplankton
-2020-02-16T10:13:16Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,10652,phytoplankton
-2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. <20 µm length,Pennate diatom,3550.7,phytoplankton
-2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. 40-60 µm length,Pennate diatom,3550.7,phytoplankton
-2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. 20-40 µm length,Pennate diatom,3550.7,phytoplankton
-2020-02-16T13:35:48Z,2020/2,2020,2,16,Nitzschia spp.,Pennate diatom,3550.7,phytoplankton
-2020-02-16T13:35:48Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
-2020-02-16T18:39:35Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
-2020-02-16T18:39:35Z,2020/2,2020,2,16,Thalassionema spp.,Pennate diatom,3550.7,phytoplankton
-2020-02-16T20:20:51Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3550.7,phytoplankton
-2020-02-16T22:02:07Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,21304,phytoplankton
-2020-02-16T23:43:23Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,14202.7,phytoplankton
-2020-02-16T23:43:23Z,2020/2,2020,2,16,Thalassionema spp.,Pennate diatom,7101.3,phytoplankton
-2020-02-17T01:24:39Z,2020/2,2020,2,17,Thalassiothrix cf. spp.,Pennate diatom,3550.7,phytoplankton
-2020-02-17T03:05:55Z,2020/2,2020,2,17,Nitzschia cf. bicapitata,Pennate diatom,7101.3,phytoplankton
-2020-02-16T20:20:51Z,2020/2,2020,2,16,Acantharia,Radiozoa,10652,phytoplankton
-2020-02-16T23:43:23Z,2020/2,2020,2,16,Acantharia,Radiozoa,3550.7,phytoplankton
-2020-05-19T22:48:46Z,2020/5,2020,5,19,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-05-20T03:54:56Z,2020/5,2020,5,20,Thalassiosira spp. 10-20 µm,Centric diatom,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Eucampia spp.,Centric diatom,3333.3,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Guinardia striata,Centric diatom,3333.3,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
-2020-05-20T17:31:25Z,2020/5,2020,5,20,Bellerochea malleus,Centric diatom,666.7,phytoplankton
-2020-05-20T17:31:25Z,2020/5,2020,5,20,Thalassiosira spp. 20-40 µm,Centric diatom,3333.3,phytoplankton
-2020-05-20T19:13:28Z,2020/5,2020,5,20,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-05-20T19:13:28Z,2020/5,2020,5,20,Coscinodiscus gigas,Centric diatom,666.7,phytoplankton
-2020-05-20T19:13:28Z,2020/5,2020,5,20,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-05-20T20:55:32Z,2020/5,2020,5,20,Coscinodiscus spp.,Centric diatom,3333.3,phytoplankton
-2020-05-20T20:55:32Z,2020/5,2020,5,20,Chaetoceros (Phaeoceros),Centric diatom,6666.7,phytoplankton
-2020-05-20T20:55:32Z,2020/5,2020,5,20,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-05-21T00:19:39Z,2020/5,2020,5,21,Climacodium frauenfeldianum,Centric diatom,3333.3,phytoplankton
-2020-05-21T02:01:42Z,2020/5,2020,5,21,Odontella sinensis,Centric diatom,3333.3,phytoplankton
-2020-05-21T03:43:46Z,2020/5,2020,5,21,Chaetoceros (Phaeoceros),Centric diatom,10000,phytoplankton
-2020-05-20T09:01:07Z,2020/5,2020,5,20,Xystonellopsis spp.,Ciliate,666.7,phytoplankton
-2020-05-21T02:01:42Z,2020/5,2020,5,21,Tintinnopsis spp.,Ciliate,3333.3,phytoplankton
-2020-05-20T00:30:49Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-05-20T05:37:00Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-05-20T07:19:03Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-05-20T09:01:07Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-05-20T10:43:11Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-05-21T02:01:42Z,2020/5,2020,5,21,Cyanobacteria coccoid chain,Cyanobacteria,6666.7,phytoplankton
-2020-05-21T03:43:46Z,2020/5,2020,5,21,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
 2020-05-20T00:30:49Z,2020/5,2020,5,20,Tripos muelleri type,Dinoflagellate,666.7,phytoplankton
 2020-05-20T02:12:53Z,2020/5,2020,5,20,Tripos trichoceros,Dinoflagellate,3333.3,phytoplankton
 2020-05-20T05:37:00Z,2020/5,2020,5,20,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
@@ -1073,93 +1039,6 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-05-21T00:19:39Z,2020/5,2020,5,21,Tripos muelleri type,Dinoflagellate,666.7,phytoplankton
 2020-05-21T00:19:39Z,2020/5,2020,5,21,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
 2020-05-21T03:43:46Z,2020/5,2020,5,21,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
-2020-05-20T03:54:56Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
-2020-05-20T07:19:03Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
-2020-05-20T10:43:11Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
-2020-05-21T02:01:42Z,2020/5,2020,5,21,Nematocysts,Other,3333.3,phytoplankton
-2020-05-20T00:30:49Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2020-05-20T00:30:49Z,2020/5,2020,5,20,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2020-05-20T00:30:49Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T02:12:53Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2020-05-20T03:54:56Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2020-05-20T03:54:56Z,2020/5,2020,5,20,Entomoneis spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T05:37:00Z,2020/5,2020,5,20,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
-2020-05-20T05:37:00Z,2020/5,2020,5,20,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
-2020-05-20T07:19:03Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2020-05-20T07:19:03Z,2020/5,2020,5,20,Pleurosigma / Gyrosigma spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T09:01:07Z,2020/5,2020,5,20,Navicula cf. 40-60 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-20T10:43:11Z,2020/5,2020,5,20,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T12:25:14Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T14:07:18Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T14:07:18Z,2020/5,2020,5,20,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Fragilaria spp.,Pennate diatom,666.7,phytoplankton
-2020-05-20T15:49:21Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
-2020-05-20T17:31:25Z,2020/5,2020,5,20,Navicula cf. 140-160 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-20T19:13:28Z,2020/5,2020,5,20,Fragilaria spp.,Pennate diatom,666.7,phytoplankton
-2020-05-20T22:37:35Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-20T22:37:35Z,2020/5,2020,5,20,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-20T22:37:35Z,2020/5,2020,5,20,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-21T00:19:39Z,2020/5,2020,5,21,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-21T00:19:39Z,2020/5,2020,5,21,Pleurosigma / Gyrosigma spp.,Pennate diatom,3333.3,phytoplankton
-2020-05-21T00:19:39Z,2020/5,2020,5,21,Navicula cf. 100-120 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-21T02:01:42Z,2020/5,2020,5,21,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
-2020-05-21T03:43:46Z,2020/5,2020,5,21,Navicula cf. 80-100 µm length,Pennate diatom,3333.3,phytoplankton
-2020-05-21T03:43:46Z,2020/5,2020,5,21,Thalassiothrix cf. spp.,Pennate diatom,6666.7,phytoplankton
-2020-05-21T03:43:46Z,2020/5,2020,5,21,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
-2020-08-17T10:22:38Z,2020/8,2020,8,17,Thalassiosira spp. 10-20 µm,Centric diatom,6666.7,phytoplankton
-2020-08-17T10:22:38Z,2020/8,2020,8,17,Rhizosolenia setigera group,Centric diatom,6666.7,phytoplankton
-2020-08-17T13:42:53Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-08-17T15:23:01Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,6666.7,phytoplankton
-2020-08-17T17:03:08Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,13333.3,phytoplankton
-2020-08-17T18:43:15Z,2020/8,2020,8,17,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-08-17T18:43:15Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-08-17T22:03:30Z,2020/8,2020,8,17,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-08-17T23:43:38Z,2020/8,2020,8,17,Proboscia spp.,Centric diatom,6666.7,phytoplankton
-2020-08-17T23:43:38Z,2020/8,2020,8,17,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
-2020-08-17T23:43:38Z,2020/8,2020,8,17,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Rhizosolenia setigera group,Centric diatom,6666.7,phytoplankton
-2020-08-18T04:44:00Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T08:04:15Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T11:24:30Z,2020/8,2020,8,18,Pseudosolenia calcar-avis,Centric diatom,3333.3,phytoplankton
-2020-08-18T11:24:30Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T13:04:37Z,2020/8,2020,8,18,Rhizosolenia imbricata group,Centric diatom,3333.3,phytoplankton
-2020-08-18T16:24:52Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T18:05:00Z,2020/8,2020,8,18,Chaetoceros (Phaeoceros),Centric diatom,3333.3,phytoplankton
-2020-08-18T18:05:00Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2020-08-18T19:45:07Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,666.7,phytoplankton
-2020-08-18T19:45:07Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2020-08-18T19:45:07Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T19:45:07Z,2020/8,2020,8,18,Climacodium frauenfeldianum,Centric diatom,666.7,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Bacteriastrum spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Coscinodiscus spp. 300-400 µm,Centric diatom,3333.3,phytoplankton
-2020-08-18T23:05:22Z,2020/8,2020,8,18,Coscinodiscus spp.,Centric diatom,6666.7,phytoplankton
-2020-08-18T23:05:22Z,2020/8,2020,8,18,Chaetoceros (Hyalochaete),Centric diatom,3333.3,phytoplankton
-2020-08-18T23:05:22Z,2020/8,2020,8,18,Rhizosolenia spp.,Centric diatom,3333.3,phytoplankton
-2020-08-18T23:05:22Z,2020/8,2020,8,18,Coscinodiscus spp. 400-500 µm,Centric diatom,666.7,phytoplankton
-2020-08-18T04:44:00Z,2020/8,2020,8,18,Steenstrupiella spp.,Ciliate,3333.3,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Coccolithophore cf.,Coccolithophore,3333.3,phytoplankton
-2020-08-17T13:42:53Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-08-17T15:23:01Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-08-17T17:03:08Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-08-17T20:23:23Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-08-17T22:03:30Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-08-17T23:43:38Z,2020/8,2020,8,17,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-08-18T01:23:45Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
-2020-08-18T03:03:53Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,10000,phytoplankton
-2020-08-18T13:04:37Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,6666.7,phytoplankton
-2020-08-18T16:24:52Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-08-18T18:05:00Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,3333.3,phytoplankton
-2020-08-18T19:45:07Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Trichodesmium spp.,Cyanobacteria,13333.3,phytoplankton
-2020-08-18T21:25:14Z,2020/8,2020,8,18,Cyanobacteria coccoid chain,Cyanobacteria,3333.3,phytoplankton
 2020-08-17T08:42:31Z,2020/8,2020,8,17,Tripos vultur,Dinoflagellate,666.7,phytoplankton
 2020-08-17T12:02:46Z,2020/8,2020,8,17,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
 2020-08-17T13:42:53Z,2020/8,2020,8,17,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
@@ -1213,9 +1092,115 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Tripos lineatus,Dinoflagellate,3333.3,phytoplankton
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Tripos brevis,Dinoflagellate,666.7,phytoplankton
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Tripos macroceros type,Dinoflagellate,666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Tripos macroceros type,Dinoflagellate,666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Ceratocorys horrida,Dinoflagellate,666.7,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos brevis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T07:11:13Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T12:16:19Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Gonyaulax spp.,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos macroceros type,Dinoflagellate,3333.3,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos fusus,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-02T17:21:26Z,2020/12,2020,12,2,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
+2020-12-02T19:03:08Z,2020/12,2020,12,2,Tripos muelleri,Dinoflagellate,6666.7,phytoplankton
+2020-12-02T19:03:08Z,2020/12,2020,12,2,Tripos vultur,Dinoflagellate,666.7,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T22:26:32Z,2020/12,2020,12,2,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-02T22:26:32Z,2020/12,2020,12,2,Tripos carriensis,Dinoflagellate,3333.3,phytoplankton
+2020-12-03T00:08:14Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-03T00:08:14Z,2020/12,2020,12,3,Tripos carriensis,Dinoflagellate,666.7,phytoplankton
+2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos macroceros type,Dinoflagellate,666.7,phytoplankton
+2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-12-03T01:49:56Z,2020/12,2020,12,3,Tripos massiliensis,Dinoflagellate,666.7,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos fusus,Dinoflagellate,3333.3,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos trichoceros,Dinoflagellate,666.7,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos macroceros,Dinoflagellate,666.7,phytoplankton
+2020-12-03T03:31:38Z,2020/12,2020,12,3,Tripos muelleri,Dinoflagellate,666.7,phytoplankton
+2020-02-16T06:50:44Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-16T08:32:00Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-16T10:13:16Z,2020/2,2020,2,16,Nematocysts,Other,7101.3,phytoplankton
+2020-02-16T11:54:32Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-16T15:17:04Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-16T22:02:07Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-16T23:43:23Z,2020/2,2020,2,16,Nematocysts,Other,3550.7,phytoplankton
+2020-02-17T04:47:11Z,2020/2,2020,2,17,Nematocysts,Other,3550.7,phytoplankton
+2020-05-20T03:54:56Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
+2020-05-20T07:19:03Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
+2020-05-20T10:43:11Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Nematocysts,Other,3333.3,phytoplankton
+2020-05-21T02:01:42Z,2020/5,2020,5,21,Nematocysts,Other,3333.3,phytoplankton
 2020-08-17T20:23:23Z,2020/8,2020,8,17,Spicule,Other,3333.3,phytoplankton
 2020-08-18T06:24:07Z,2020/8,2020,8,18,Nematocysts,Other,666.7,phytoplankton
 2020-08-18T14:44:45Z,2020/8,2020,8,18,Nematocysts,Other,666.7,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
+2020-12-02T05:29:31Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Nematocysts,Other,6666.7,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Nematocysts,Other,3333.3,phytoplankton
+2020-02-16T01:46:56Z,2020/2,2020,2,16,Cylindrotheca closterium,Pennate diatom,3550.7,phytoplankton
+2020-02-16T01:46:56Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3550.7,phytoplankton
+2020-02-16T01:46:56Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
+2020-02-16T01:46:56Z,2020/2,2020,2,16,Pleurosigma / Gyrosigma spp.,Pennate diatom,710.1,phytoplankton
+2020-02-16T10:13:16Z,2020/2,2020,2,16,Pseudo-nitzschia delicatissima complex <=3 µm,Pennate diatom,3550.7,phytoplankton
+2020-02-16T10:13:16Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,10652,phytoplankton
+2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. <20 µm length,Pennate diatom,3550.7,phytoplankton
+2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. 40-60 µm length,Pennate diatom,3550.7,phytoplankton
+2020-02-16T13:35:48Z,2020/2,2020,2,16,Navicula cf. 20-40 µm length,Pennate diatom,3550.7,phytoplankton
+2020-02-16T13:35:48Z,2020/2,2020,2,16,Nitzschia spp.,Pennate diatom,3550.7,phytoplankton
+2020-02-16T13:35:48Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
+2020-02-16T18:39:35Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,3550.7,phytoplankton
+2020-02-16T18:39:35Z,2020/2,2020,2,16,Thalassionema spp.,Pennate diatom,3550.7,phytoplankton
+2020-02-16T20:20:51Z,2020/2,2020,2,16,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3550.7,phytoplankton
+2020-02-16T22:02:07Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,21304,phytoplankton
+2020-02-16T23:43:23Z,2020/2,2020,2,16,Nitzschia cf. bicapitata,Pennate diatom,14202.7,phytoplankton
+2020-02-16T23:43:23Z,2020/2,2020,2,16,Thalassionema spp.,Pennate diatom,7101.3,phytoplankton
+2020-02-17T01:24:39Z,2020/2,2020,2,17,Thalassiothrix cf. spp.,Pennate diatom,3550.7,phytoplankton
+2020-02-17T03:05:55Z,2020/2,2020,2,17,Nitzschia cf. bicapitata,Pennate diatom,7101.3,phytoplankton
+2020-05-20T00:30:49Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2020-05-20T00:30:49Z,2020/5,2020,5,20,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2020-05-20T00:30:49Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T02:12:53Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2020-05-20T03:54:56Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2020-05-20T03:54:56Z,2020/5,2020,5,20,Entomoneis spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T05:37:00Z,2020/5,2020,5,20,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
+2020-05-20T05:37:00Z,2020/5,2020,5,20,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2020-05-20T07:19:03Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2020-05-20T07:19:03Z,2020/5,2020,5,20,Pleurosigma / Gyrosigma spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T09:01:07Z,2020/5,2020,5,20,Navicula cf. 40-60 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-20T10:43:11Z,2020/5,2020,5,20,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T12:25:14Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T14:07:18Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T14:07:18Z,2020/5,2020,5,20,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Fragilaria spp.,Pennate diatom,666.7,phytoplankton
+2020-05-20T15:49:21Z,2020/5,2020,5,20,Cylindrotheca closterium,Pennate diatom,3333.3,phytoplankton
+2020-05-20T17:31:25Z,2020/5,2020,5,20,Navicula cf. 140-160 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-20T19:13:28Z,2020/5,2020,5,20,Fragilaria spp.,Pennate diatom,666.7,phytoplankton
+2020-05-20T22:37:35Z,2020/5,2020,5,20,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-20T22:37:35Z,2020/5,2020,5,20,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-20T22:37:35Z,2020/5,2020,5,20,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-21T00:19:39Z,2020/5,2020,5,21,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-21T00:19:39Z,2020/5,2020,5,21,Pleurosigma / Gyrosigma spp.,Pennate diatom,3333.3,phytoplankton
+2020-05-21T00:19:39Z,2020/5,2020,5,21,Navicula cf. 100-120 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-21T02:01:42Z,2020/5,2020,5,21,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
+2020-05-21T03:43:46Z,2020/5,2020,5,21,Navicula cf. 80-100 µm length,Pennate diatom,3333.3,phytoplankton
+2020-05-21T03:43:46Z,2020/5,2020,5,21,Thalassiothrix cf. spp.,Pennate diatom,6666.7,phytoplankton
+2020-05-21T03:43:46Z,2020/5,2020,5,21,Thalassionema spp.,Pennate diatom,3333.3,phytoplankton
 2020-08-17T10:22:38Z,2020/8,2020,8,17,Thalassiothrix cf. spp.,Pennate diatom,3333.3,phytoplankton
 2020-08-17T12:02:46Z,2020/8,2020,8,17,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
 2020-08-17T13:42:53Z,2020/8,2020,8,17,Thalassionema nitzschioides,Pennate diatom,3333.3,phytoplankton
@@ -1242,3 +1227,18 @@ sample_date_utc,year_month,year,month,day,taxon_name,taxon_group,taxon_per_m3,pl
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Navicula cf. 100-120 µm length,Pennate diatom,3333.3,phytoplankton
 2020-08-18T23:05:22Z,2020/8,2020,8,18,Thalassionema nitzschioides,Pennate diatom,10000,phytoplankton
+2020-12-02T00:24:25Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
+2020-12-02T03:47:49Z,2020/12,2020,12,2,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
+2020-12-02T08:52:55Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Pseudo-nitzschia seriata complex >3 µm,Pennate diatom,3333.3,phytoplankton
+2020-12-02T10:34:37Z,2020/12,2020,12,2,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2020-12-02T13:58:01Z,2020/12,2020,12,2,Navicula cf. 60-80 µm length,Pennate diatom,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2020-12-02T15:39:43Z,2020/12,2020,12,2,Navicula cf. 20-40 µm length,Pennate diatom,3333.3,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Nitzschia spp.,Pennate diatom,3333.3,phytoplankton
+2020-12-02T20:44:50Z,2020/12,2020,12,2,Pleurosigma spp. < 150 µm,Pennate diatom,3333.3,phytoplankton
+2020-12-03T01:49:56Z,2020/12,2020,12,3,Nitzschia spp.,Pennate diatom,6666.7,phytoplankton
+2020-02-16T20:20:51Z,2020/2,2020,2,16,Acantharia,Radiozoa,10652,phytoplankton
+2020-02-16T23:43:23Z,2020/2,2020,2,16,Acantharia,Radiozoa,3550.7,phytoplankton

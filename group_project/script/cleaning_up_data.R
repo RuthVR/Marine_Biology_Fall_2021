@@ -61,6 +61,8 @@ Phytoplankton_cleaned_data <- Phytoplankton_data %>%
         sep = "/",                                                              # lets put a . in the middle 
         remove = FALSE) %>%
   add_column(plankton_type = "phytoplankton") %>%
+  arrange(year_month,
+          taxon_group)%>%
   write_csv(here("group_project", "data", "Cleaned_up_Phytoplankton_data.csv"))
 
 Zooplankton_clean_data <- Zooplankton_data %>%
@@ -85,12 +87,14 @@ Zooplankton_clean_data <- Zooplankton_data %>%
         sep = "/",                                                              # lets put a . in the middle 
         remove = FALSE) %>%
   add_column(plankton_type = "zooplankton") %>%
+  arrange(year_month,
+          taxon_group)%>%
   write_csv(here("group_project", "data", "Cleaned_up_Zooplankton_data.csv"))
 
 ### merging the two plankton data sets into one ###
 
 full_plankton_data <- full_join(Phytoplankton_cleaned_data, Zooplankton_clean_data) %>%
-  arrange(year)%>%
+  arrange(year_month)%>%
   select(-day) %>%
   filter(taxon_group != 'Radiozoa',
          taxon_group != 'NOCTILUCA', 
@@ -133,7 +137,7 @@ ggplot(data = Temp_data_clean,
   facet_wrap(~month,
              scales = "free")+
   theme_classic()+
-  theme(legend.position = "none",
+  theme(legend.position = "bottom",
         axis.title = element_text(size = 10),
         title = element_text(size = 16),
         plot.subtitle = element_text(size = 13))+
