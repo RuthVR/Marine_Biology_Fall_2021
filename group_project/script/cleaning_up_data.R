@@ -197,6 +197,6 @@ ggplot(data = abundancy_data_clean,
        subtitle = "The graph show how phytoplankton and zooplankton abundancy is effected after a summer that had a record number of heatwaves occuring.",
        caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")+                                      ### how I got my color theme ##
   scale_x_discrete(guide = guide_axis(angle = 45))                              ### how i customized my axis scales ##
-ggsave(here("group_project", "output", "comparing_summer_2019/2020.png"),
+ggsave(here("group_project", "output", "comparing_summer_2019_2020.png"),
        width = 10, height = 7) 
 
