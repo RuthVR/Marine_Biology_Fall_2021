@@ -15,6 +15,7 @@ library(ggsci)
 Temperature_data <- read_csv(here("group_project/data/temperature_data_water.csv"))
 Zooplankton_data <- read_csv(here("group_project/data/Zooplankton_abundance_raw_data.csv"))
 Phytoplankton_data <- read_csv(here("group_project/data/Phytoplankton_abundance_raw_data.csv"))
+abundancy_data <- read_csv(here("group_project/data/total_abundancy_data.csv"))
 
 
 ## Cleaning up the data ########################################################
@@ -150,5 +151,52 @@ The data was recorded off the coast of Northeastern Australia.",
   scale_color_jco() +                                       ### how I got my color theme ##
   scale_x_discrete(guide = guide_axis(angle = 60))                              ### how i customized my axis scales ##
 ggsave(here("group_project", "output", "temp_seawater_2014_2020.png"),
+       width = 10, height = 7) 
+
+### Making the abundancy graph ###
+abundancy_data_clean <- abundancy_data%>%
+  select(-...4, -...5) %>%
+  arrange(date) %>%
+  filter(date != "2018-09-07",
+         date != "2019-11-12",
+         date != "2020-02-16",
+         date != "2020-08-18",
+         date != "2020-12-02",
+         date != "2018-08-09",
+         date != "2019-04-17") %>%
+  separate(
+    col = date,
+    into = c('year', 'month', 'day'), 
+    sep = "-"  ) %>%
+  unite(col = "year_month",                                                     # the name of the NEW col 
+        c(year, month),                                                         # the columns to unite 
+        sep = "/",                                                              # lets put a . in the middle 
+        remove = FALSE) %>%
+  add_column(time = if_else(.$month == "08", "Before Summer", "After Summer"))
+  
+  
+  
+
+ggplot(data = abundancy_data_clean,
+       mapping = aes(x = year_month,
+                     y = abundancy,
+                     fill = time))+
+  geom_col()+
+  facet_wrap(~type,
+             scale = "free")+
+  scale_fill_simpsons()+
+  theme_classic()+
+  theme(legend.position = "top",
+        legend.title = element_blank(),
+        axis.title = element_text(size = 11),
+        title = element_text(size = 18),
+        plot.subtitle = element_text(size = 14))+
+  labs(x = "",
+       y = "Abundancy",
+       title = "Abundancy Before and After Heatwaves",
+       subtitle = "The graph show how phytoplankton and zooplankton abundancy is effected after a summer that had a record number of heatwaves occuring.",
+       caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")+                                      ### how I got my color theme ##
+  scale_x_discrete(guide = guide_axis(angle = 45))                              ### how i customized my axis scales ##
+ggsave(here("group_project", "output", "comparing_summer_2019/2020.png"),
        width = 10, height = 7) 
 
