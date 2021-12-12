@@ -199,8 +199,8 @@ ggplot(data = Before_After_summer_data,
   labs(x = "",
        y = "Abundancy",
        title = "Abundancy Before and After Heatwaves",                          # making the labels for the graph
-       subtitle = "The graph show how phytoplankton and zooplankton abundancy were effected after a summer
-that had a record number of heatwaves occur. The summer that we are looking at is for the year 2019-2020",
+       subtitle = "The 2019-2020 summer is the most recent summer in which there are temperature and abundancy data. 
+The graph show phytoplankton and zooplankton abundancy levels before and after the summer months.",
        caption = "Created by Ruth Vergara Reyes, using data from 'The Australian Continuous Plankton Recorder (AusCPR)' ")                                     ### how I got my color theme ##
 ggsave(here("group_project", "output", "comparing_summer_2019_2020.png"),
        width = 10, height = 7)                                                  # saving the graph
